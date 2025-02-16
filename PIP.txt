@@ -1,0 +1,35 @@
+pip install pyttsx3
+pip install SpeechRecognition
+pip install pyautogui
+pip install openai
+pip install pywhatkit
+pip install requests
+pip install opencv-python
+pip install google-auth
+pip install google-auth-oauthlib
+pip install google-auth-httplib2
+pip install google-api-python-client
+pip install textblob
+pip install pyaudio
+
+
+pip install pyttsx3
+pip install SpeechRecognition
+pip install pyautogui
+pip install openai
+pip install pywhatkit
+pip install requests
+pip install opencv-python
+pip install google-auth
+pip install google-auth-oauthlib
+pip install google-auth-httplib2
+pip install google-api-python-client
+pip install textblob
+pip install pyaudio
+
+
+
+export OPENAI_API_KEY='your_openai_api_key'
+export GOOGLE_APPLICATION_CREDENTIALS='path_to_your_service_account_file.json'
+export EMAIL_ADDRESS='your_email_address'
+export EMAIL_PASSWORD='your_email_password'
